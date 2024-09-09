@@ -6,9 +6,7 @@
 1. cuda环境: cuda -arch=sm_87
 2. llvm环境: llvm -mtriple=aarch64-linux-gnu
 3. 交叉编译环境: aarch64-linux-gnu-gcc
-4. PyQt环境:  PyQt5 == 5.15.9
-             PyQt5-Qt5 == 5.15.2
-             PyQt5-sip == 12.13.0
+4. PyQt环境: PyQt5 == 5.15.9, PyQt5-Qt5 == 5.15.2, PyQt5-sip == 12.13.0
 
 ---
 
@@ -22,7 +20,7 @@
 
 
 #### 4. 默认勾选 ONNX文件，如果需要上传的文件中不包括 .ONNX模型文件，则取消勾选。
-- 注: 
+- 注: 选中 model.onnx文件上传即可，请勿上传压缩包
 
 
 #### 5. 点击 选择文件，并选择需要上传的文件
