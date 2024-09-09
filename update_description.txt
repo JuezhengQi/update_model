@@ -1,0 +1,56 @@
+==============================2024-07-11 17:28:35==============================
+
+file_name: oghr_net.onnx
+file_size: 905.12 KB
+create_time: 2024-07-01 10:19:34
+modify_time: 2024-07-01 10:19:31
+
+file_name: mod.params
+file_size: 871.77 KB
+create_time: 2024-07-11 17:28:35
+modify_time: 2024-07-11 17:28:35
+
+file_name: mod.so
+file_size: 198.52 KB
+create_time: 2024-07-11 17:28:35
+modify_time: 2024-07-11 17:28:35
+
+file_name: mod.json
+file_size: 7.94 KB
+create_time: 2024-07-11 17:28:35
+modify_time: 2024-07-11 17:28:35
+
+1.1
+2.2
+3.3
+
+==============================Submit by: qjz-OMEN-by-HP-Laptop-17-ck2xxx==============================
+
+==============================2024-07-11 17:29:23==============================
+
+file_name: oghr_net.onnx
+file_size: 905.12 KB
+create_time: 2024-07-01 10:19:34
+modify_time: 2024-07-01 10:19:31
+
+file_name: mod.params
+file_size: 871.77 KB
+create_time: 2024-07-11 17:29:23
+modify_time: 2024-07-11 17:29:23
+
+file_name: mod.so
+file_size: 198.52 KB
+create_time: 2024-07-11 17:29:23
+modify_time: 2024-07-11 17:29:23
+
+file_name: mod.json
+file_size: 7.94 KB
+create_time: 2024-07-11 17:29:23
+modify_time: 2024-07-11 17:29:23
+
+a.a
+b.b
+c.c
+
+==============================Submit by: qjz-OMEN-by-HP-Laptop-17-ck2xxx==============================
+
