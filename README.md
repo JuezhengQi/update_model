@@ -3,10 +3,12 @@
 ---
 
 ### 环境配置: 
-1. cuda环境: cuda -arch=sm_87
-2. llvm环境: llvm -mtriple=aarch64-linux-gnu
-3. 交叉编译环境: aarch64-linux-gnu-gcc
-4. PyQt环境: PyQt5 == 5.15.9, PyQt5-Qt5 == 5.15.2, PyQt5-sip == 12.13.0
+1. cuda环境: release 11.4, V11.4.48
+2. tvm.compile 参数配置:
+   - target="cuda -arch=sm_87"
+   - target_host='llvm -mtriple=aarch64-linux-gnu'
+   - 交叉编译环境: cross=aarch64-linux-gnu-gcc
+3. PyQt环境: PyQt5 == 5.15.9, PyQt5-Qt5 == 5.15.2, PyQt5-sip == 12.13.0
 
 ---
 
